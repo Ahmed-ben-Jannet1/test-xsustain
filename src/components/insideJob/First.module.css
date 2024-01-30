@@ -1,0 +1,67 @@
+.sectionOne {
+  width: 1096px;
+  height: 285px;
+  top: 265px;
+  left: 221px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #000;
+}
+
+.sectionOne .logos {
+  display: flex;
+}
+
+.sectionOne img:last-child {
+  transform: scaleX(-1);
+}
+
+.sectionOne .arrowLeft {
+  margin-right: 60px;
+}
+
+.sectionOne .arrowRight {
+  margin-left: 60px;
+}
+
+.firstpic {
+  opacity: 0.32;
+}
+
+.firstContainer {
+  position: relative;
+}
+
+.textOverlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: #fff;
+  padding: 20px;
+}
+
+.track {
+  height: 28px;
+  top: 473px;
+  left: 337px;
+  font-family: Oswald;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.num {
+  width: 143px;
+  height: 28px;
+  top: 504px;
+  left: 337px;
+  font-family: Oswald;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+}

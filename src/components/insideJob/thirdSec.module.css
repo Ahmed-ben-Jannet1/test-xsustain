@@ -1,0 +1,21 @@
+.thirdSection {
+  width: 1096px;
+  height: 387px;
+  top: 604px;
+  left: 221px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #000;
+}
+
+.replay {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.liberty {
+  opacity: 0.32;
+}

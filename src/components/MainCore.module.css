@@ -1,0 +1,67 @@
+.main {
+  background-color: #000;
+  width: 100%;
+  height: 100%;
+}
+
+.city {
+  width: 100%;
+  height: 1423px;
+  top: 65px;
+  position: absolute;
+}
+
+.rect {
+  width: 100%;
+  height: 1423px;
+  top: 65px;
+  position: absolute;
+  z-index: 2;
+  opacity: 0.74;
+}
+
+.leftImage {
+  width: 193px;
+  height: 43px;
+  top: 112px;
+  left: 63px;
+  position: absolute;
+  z-index: 3;
+}
+
+.rightImage {
+  width: 714.43px;
+  height: 1414.16px;
+  top: -56.08px;
+  left: 765.71px;
+  position: absolute;
+  transform: rotate(-0.08deg);
+  z-index: 3;
+}
+
+.textContainer {
+  position: absolute;
+  top: 700px;
+  left: 0;
+  margin-left: -300px;
+  transform: rotate(-90deg);
+  z-index: 3;
+}
+
+.verticalText {
+  font-family: Oswald;
+  font-size: 49px;
+  font-weight: 700;
+  line-height: 73px;
+  letter-spacing: 0em;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.lineOne {
+  color: #ffffff;
+}
+.lineTwo {
+  margin-left: 7rem;
+  color: #ff4d20;
+}

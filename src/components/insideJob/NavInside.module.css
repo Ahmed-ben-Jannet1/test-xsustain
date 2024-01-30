@@ -1,0 +1,35 @@
+.nav {
+  height: 54px;
+  top: 211px;
+  background-color: #ff4d20;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.elements {
+  display: flex;
+  gap: 20px;
+}
+
+.elements span {
+  font-family: Oswald;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+
+.logos {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logos img {
+  width: 18px;
+  height: 18px;
+}

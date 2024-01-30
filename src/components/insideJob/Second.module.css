@@ -1,0 +1,22 @@
+.secondSec {
+  width: 1096px;
+  height: 54px;
+  top: 563px;
+  left: 373px;
+  background-color: #fff;
+  align-items: center;
+  display: flex;
+  overflow: hidden;
+}
+
+.followMore {
+  margin-top: 7px;
+  margin-left: 10px;
+  white-space: nowrap;
+  font-family: Oswald;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+}

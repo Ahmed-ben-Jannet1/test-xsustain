@@ -1,0 +1,8 @@
+.inside {
+  z-index: 9999;
+  /* position: fixed; */
+  position: absolute;
+  top: 85% !important;
+  left: 53% !important;
+  transform: translate(-50%, -50%) !important;
+}
