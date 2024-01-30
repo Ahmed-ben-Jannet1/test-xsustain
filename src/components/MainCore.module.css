@@ -6,7 +6,7 @@
 
 .city {
   width: 100%;
-  height: 1423px;
+  height: 1023px;
   top: 65px;
   position: absolute;
 }
@@ -17,7 +17,7 @@
   top: 65px;
   position: absolute;
   z-index: 2;
-  opacity: 0.74;
+  opacity: 0.94;
 }
 
 .leftImage {
@@ -30,10 +30,10 @@
 }
 
 .rightImage {
-  width: 714.43px;
-  height: 1414.16px;
-  top: -56.08px;
-  left: 765.71px;
+  width: 640.43px;
+  height: 1096px;
+  top: 0;
+  left: 838.71px;
   position: absolute;
   transform: rotate(-0.08deg);
   z-index: 3;
@@ -41,9 +41,9 @@
 
 .textContainer {
   position: absolute;
-  top: 700px;
+  top: 550px;
   left: 0;
-  margin-left: -300px;
+  margin-left: -340px;
   transform: rotate(-90deg);
   z-index: 3;
 }
