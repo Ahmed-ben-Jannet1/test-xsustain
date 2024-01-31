@@ -1,7 +1,7 @@
 import React from "react";
 import classes from "./Second.module.css";
 function SecondSec() {
-  const numberOfRepeats = 8;
+  const numberOfRepeats = 10;
   const followMore = "FOLLOW FOR MORE";
 
   let followElements = [];
