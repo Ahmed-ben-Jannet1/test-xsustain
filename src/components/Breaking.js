@@ -2,7 +2,7 @@ import React from "react";
 import classes from "./Breaking.module.css";
 
 function Breaking() {
-  const numberOfRepeats = 7;
+  const numberOfRepeats = 8;
   const liveText = "WE ARE LIVE!";
 
   let liveElements = [];
